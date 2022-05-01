@@ -1,6 +1,6 @@
 # Sumo Logic Observability
 
-![IMG](https://github.com/quiik/sumo/blob/master/images/sumo-logic-logo-vector.png)
+![IMG](images/sumo-logic-logo-vector.png)
 
 Why is observability so important around distributed systems? 
 
@@ -12,4 +12,5 @@ These are all things observability assist with. Giving you a visualization of wh
 
 <h3>Helpful Links:</h3>
 
-![link](https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension)
+<a href="https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension" target="_blank">Sumo-Logic-Lambda-Configuration</a>
+[1]: https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension  "Sumo-Logic-Lambda-Configuration"
