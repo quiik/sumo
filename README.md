@@ -12,5 +12,4 @@ These are all things observability assist with. Giving you a visualization of wh
 
 <h3>Helpful Links:</h3>
 
-<a href="https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension" target="_blank">Sumo-Logic-Lambda-Configuration</a>
 [1]: https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension  "Sumo-Logic-Lambda-Configuration"
