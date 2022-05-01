@@ -4,7 +4,7 @@
 
 <h3>Why is observability so important around distributed systems?</h3>
 
-When you are builiding services within your appliactions that depend on other services that you may or maynot control. How do you know if a service you control went down, how do you know if a service you don't control went down or how do you know if your appliaction has stopped functioning?
+When you are builiding services within your appliactions that depend on other services that you may or maynot control. It is important to have visualization around those services. For instance how do you know if a service you control went down, how do you know if a service you don't control went down or how do you know if your appliaction has stopped functioning?
 
 These are all things observability assist with. Giving you a visualization of what is happening inside your applicaiton. Building key SLI's around key componets that if down your applications stops functioning. 
 
