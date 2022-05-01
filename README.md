@@ -8,7 +8,7 @@ When you are builiding services within your appliactions that depend on other se
 
 These are all things observability assist with. Giving you a visualization of what is happening inside your applicaiton. Building key SLI's around key componets that if down your applications stops functioning. 
 
-![Architecture](images/My\ architecture\ -\ Sumo\ Logic.png)
+![Architecture](images/diagram.png)
 
 Above is my architecture of my current observability. I have two environements one on the east coast of the United States and the other on the west coast for disaster recovery. Even thought my architecture is around serverless components found in AWS I wanted to have a disaster recovery solution in case east-1 goes down unexpectedly again. 
 
