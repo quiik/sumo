@@ -14,5 +14,5 @@ Above is my architecture of my current observability. I have two environements o
 
 <h4>Helpful Links:</h4>
 
-[1]: https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension  "Sumo-Logic-Lambda-Configuration"
-[2]: https://rakyll.medium.com/googles-approach-to-observability-frameworks-c89fc1f0e058  "Google-Approach-Observability"
+[1]: <a href="https://help.sumologic.com/03Send-Data/Collect-from-Other-Data-Sources/Collect_AWS_Lambda_Logs_using_an_Extension" target="_blank">Sumo-Logic-Lambda-Configuration</a>
+[2]: <a href="https://rakyll.medium.com/googles-approach-to-observability-frameworks-c89fc1f0e058 " target="_blank">Google-Approach-Observability</a>
